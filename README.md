@@ -1,3 +1,3 @@
-# Kokoa Clone 2020 update
+# Kakao Clone
 
 Studying HTML & CSS!
