@@ -1,3 +1,3 @@
-# Kakao Clone
+# Kakao talk Clone
 
-Studying HTML & CSS!
+Studying HTML & CSS
